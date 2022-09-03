@@ -1,4 +1,5 @@
 {
+julian gets no love
   "image_base_path": "./Images/",
   "image_types": ["Kitten", "Puppy"],
   "video_time": 3000,
